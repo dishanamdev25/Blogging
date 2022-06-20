@@ -1,0 +1,7 @@
+multer is a library used to add files and images to database
+
+we are going to write inside index.js file the way to add images
+
+
+1) require multer
+2)create a storage and insicate images folder
